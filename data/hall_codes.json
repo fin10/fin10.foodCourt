@@ -186,6 +186,25 @@
             "E5A4EH",
             "E5A5K2", "E5A5K3", "E5A5K6", "E5A5KC", "E5A5KE",
             "E59YAA"
+        ],
+        "lunch-thu": [
+            "E59TAA",
+            "E59SAA", "E59SBB",
+            "E59WAA",
+            "E59VAA",
+            "E5A1AA",
+            "E5A4EH",
+            "E5A5K2", "E5A5K3", "E5A5K6", "E5A5K9", "E5A5KC", "E5A5KE"
+        ],
+        "lunch-fri": [
+            "E59TAA"
+            "E59SAA", "E59SBB",
+            "E59WAA",
+            "E59VAA",
+            "E5A1AA",
+            "E5A4AA", "E5A4EH",
+            "E5A5K2", "E5A5K3", "E5A5K6", "E5A5KC", "E5A5KE",
+            "E59XBB"
         ],        
         "dinner": [
             "E59TAA", 
