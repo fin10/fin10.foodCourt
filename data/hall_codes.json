@@ -113,37 +113,17 @@
     },
     "r5.1st.basement": {
         "default": [
-            "E59SAA", "E59SAX", "E59SBB",
-            "E59TAA", "E59TBB", "E59TCC", "E59TFF",
-            "E59UAA", "E59UBB",
-            "E59VAA", "E59VCC",
-            "E59WAA", "E59WBB",
-            "E59XAA", "E59XBB", "E59XCC",
-            "E59YAA", "E59YBB", "E59YCC", "E59YCX", "E59YCZ",
-            "E59ZAA", "E59ZCC", "E59ZCX",
-            "E5A1AA", "E5A1BB",
-            "E5A2AA", "E5A2BB",
-            "E5A3AA", "E5A3BB",
-            "E5A4AA", "E5A4CC",
-            "E5A5AA", "E5A5BB", "E5A5CC", "E5A5DD", "E5A5EE", "E5A5HH", "E5A5KK", "E5A5LL", "E5A5K9", "E5A5XX", "E5A5YY", "E5A5Z1",
-            "E5A5K1", "E5A5K2", "E5A5K3", "E5A5K6", "E5A5K7", "E5A5K8", "E5A5KB", "E5A5KC", "E5A5KE"
+            "REST000007"            
         ]
     },
     "r5.2nd.basement": {
         "default": [
-            "E59SBX",
-            "E59TAA", "E59TBB", "E59TCC", "E59TFF",
-            "E59UAA", "E59UBB",
-            "E59VAA", "E59VCC",
-            "E59ZAA", "E59ZCC",
-            "E5A1AA", "E5A1BB",
-            "E5A4AA", "E5A4CC",
-            "E5A6AA"
+            "REST000008"
         ]
     },
     "r5.5th.floor": {
         "default": [
-            "REST000007"
+            "REST000006"
         ]
     },
     "smart.1st.floor": {
