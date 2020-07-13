@@ -156,6 +156,16 @@
             "E5A5AA", "E5A5BB", "E5A5CC", "E5A5KK", "E5A5LL", "E5A5XX", "E5A5YY", "E5A5Z1",
             "E5A5K1", "E5A5K2", "E5A5K3", "E5A5K6", "E5A5K9", "E5A5KB", "E5A5KC", "E5A5KE"
         ],
+        "mon": [
+            "E59TAA", "E59TBB",
+            "E59SAA", "E59SBB",
+            "E59WAA",
+            "E59VCC",
+            "E59ZAA",
+            "E5A1AA",
+            "E5A4AA", "E5A4EH"
+            "E5A5AA", "E5A5BB", "E5A5CC", "E5A5KK", "E5A5LL"
+        ],
         "tue": [
             "E59TAA", "E59TBB", "E59TCC",
             "E59SAA",
