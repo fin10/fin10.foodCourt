@@ -39,10 +39,10 @@
             "E13CAA", "E13CBB", "E13CEE", "E13CGG", "E13CHH", "E13CII", "E13CJJ", "E13CWW", "E13CXX", "E13CZZ"
         ],
         "lunch": [
-            "E13CAA", "E13CBB", "E13CD1", "E13CDD", "E13CMM", "E13CGG", "E13CHH", "E13CWW", "E13CYY", "E13CZ1"
+            "E13CAA", "E13CBB", "E13CCC", "E13CE2", "E13CMM", "E13CZ2", "E13CGG", "E13CHH", "E13CQQ", "E13CWW", "E13CYY"
         ],
         "dinner": [
-            "E13CAA", "E13CCC", "E13CEE", "E13CFF", "E13CGG", "E13CHH", "E13CPP", "E13CWW", "E13CYY"
+            "E13CAA", "E13CBB", "E13CEE", "E13CFF", "E13CGG", "E13CHH", "E13CPP", "E13CWW", "E13CYY"
         ]
     }
 }
