@@ -17,166 +17,32 @@
         ]
     },
     "r4.rainbow": {
-        "breakfast": [
-            "E5MFA1", "E5MFB1", "E5MFB2",
-            "E5MGC1", "E5MGD2",
-            "E5MII2",
-            "E5MJK1", "E5MJK2", "E5MJK3", "E5MJK4", "E5MJK5", "E5MJK6", "E5MJK7", "E5MJK8", "E5MJKC", "E5MJKD", "E5MJKE" 
-        ],
-        "lunch": [
-            "E5MFA1", "E5MFAX", "E5MFB1", "E5MFBX", "E5MFMM",
-            "E5MGC1", "E5MGCX", "E5MGD1", "E5MGDX", "E5MGE1", "E5MGE2", "E5MGEX", "E5MGMM", "E5MGNN",
-            "E5MIH1", "E5MIH2", "E5MIHX", "E5MII1", "E5MIIX", "E5MIMM",
-            "E5MJK1", "E5MJK2", "E5MJK3", "E5MJK4", "E5MJK5", "E5MJK9", "E5MJKA", "E5MJKC", "E5MJKD", "E5MJKE"
-        ],
-        "dinner-mon": [
-            "E5MFA1", "E5MFAX", "E5MFB1", "E5MFBX",
-            "E5MGC1", "E5MGCX", "E5MGD1", "E5MGDX", "E5MGE1", "E5MGE2", "E5MGEX",
-            "E5MHG1", "E5MHG2", "E5MHGX",
-            "E5MIH1", "E5MIHX", "E5MIL2", "E5MILY",
-            "E5MJK1", "E5MJK2", "E5MJK3", "E5MJK4", "E5MJK5", "E5MJK6", "E5MJKB", "E5MJKC", "E5MJKD", "E5MJKE"
-        ],
-        "dinner-tue": [
-            "E5MFA1", "E5MFAX", "E5MFB1", "E5MFBX",
-            "E5MGC1", "E5MGCX", "E5MGD1", "E5MGDX", "E5MGE1", "E5MGE2", "E5MGEX",
-            "E5MHF1", "E5MHF2", "E5MHFX",
-            "E5MIH1", "E5MIH2", "E5MIHX", "E5MIHY",
-            "E5MJK1", "E5MJK2", "E5MJK3", "E5MJK4", "E5MJK5", "E5MJK6", "E5MJKB", "E5MJKC", "E5MJKD", "E5MJKE"
-        ],
-        "dinner-wed": [
-            "E5MFA1", "E5MFAX", "E5MFB1", "E5MFBX",
-            "E5MGC1", "E5MGCX", "E5MGD1", "E5MGDX", "E5MGE1", "E5MGE2", "E5MGEX",
-            "E5MII1", "E5MIIX", "E5MIH1", "E5MIH2", "E5MIHX", "E5MIHY",
-            "E5MJK1", "E5MJK2", "E5MJK3", "E5MJK4", "E5MJK5", "E5MJK6", "E5MJKB", "E5MJKC", "E5MJKD", "E5MJKE"
-        ],
-        "dinner-thu": [
-            "E5MFA1", "E5MFAX", "E5MFB1", "E5MFBX",
-            "E5MGC1", "E5MGCX", "E5MGD1", "E5MGDX", "E5MGE1", "E5MGE2", "E5MGEX",
-            "E5MHG1", "E5MHG2", "E5MHGX",
-            "E5MIH1", "E5MIHX", "E5MIL2", "E5MILY",
-            "E5MJK1", "E5MJK2", "E5MJK3", "E5MJK4", "E5MJK5", "E5MJK6", "E5MJKB", "E5MJKC", "E5MJKD", "E5MJKE"
-        ],
-        "dinner-fri": [
-            "E5MFA1", "E5MFAX", "E5MFB1", "E5MFBX",
-            "E5MGC1", "E5MGCX", "E5MGD1", "E5MGDX", "E5MGE1", "E5MGE2", "E5MGEX",
-            "E5MHF1", "E5MHF2", "E5MHFX",
-            "E5MIH1", "E5MIH2", "E5MIHX", "E5MIHY",
-            "E5MJK1", "E5MJK2", "E5MJK3", "E5MJK4", "E5MJK5", "E5MJK6", "E5MJKB", "E5MJKC", "E5MJKD", "E5MJKE"
-        ]    
+        "lunch": [ "REST000003" ]
     },
     "r4.oasis": {
-        "default": [
-            "E5MFA1", "E5MFAX", "E5MFB1", "E5MFBX", "E5MFMM",
-            "E5MGC1", "E5MGCX", "E5MGD1", "E5MGDX", "E5MGMM",
-            "E5MHF1", "E5MHF2", "E5MHFX", "E5MHFY", "E5MHG1", "E5MHG2", "E5MHGX", "E5MHMM", "E5MHNN",
-            "E5MIL1", "E5MIL2", "E5MILX", "E5MILY"
-        ]
+        "lunch": [ "REST000005" ]
     },
     "r4.milkyway": {
-        "mon": [
-            "E5MFA1", "E5MFAX", "E5MFB1", "E5MFBX", "E5MFJ1", "E5MFJX",
-            "E5MGC1", "E5MGCX", "E5MGD1", "E5MGDX", "E5MGMM",
-            "E5MHF1", "E5MHF2", "E5MHFX", "E5MHFY", "E5MHG1", "E5MHG2", "E5MHGX",
-            "E5MJK1", "E5MJK2", "E5MJK3", "E5MJK4", "E5MJK5", "E5MJK9", "E5MJKA", "E5MJKC", "E5MJKD", "E5MJKE"
-        ],
-        "tue": [
-            "E5MFA1", "E5MFAX", "E5MFB1", "E5MFBX", "E5MFJ1", "E5MFJX",
-            "E5MGC1", "E5MGCX", "E5MGD1", "E5MGDX", "E5MGMM", "E5MGE1", "E5MGE2", "E5MGEX",
-            "E5MIL1", "E5MIL2", "E5MILX", "E5MILY",
-            "E5MJK1", "E5MJK2", "E5MJK3", "E5MJK4", "E5MJK5", "E5MJK9", "E5MJKA", "E5MJKC", "E5MJKD", "E5MJKE"
-        ],
-        "wed": [
-            "E5MFA1", "E5MFAX", "E5MFB1", "E5MFBX", "E5MFJ1", "E5MFJX",
-            "E5MGC1", "E5MGCX", "E5MGD1", "E5MGDX", "E5MGMM",
-            "E5MHF1", "E5MHF2", "E5MHFX", "E5MHFY",
-            "E5MII1", "E5MIIX",
-            "E5MJK1", "E5MJK2", "E5MJK3", "E5MJK4", "E5MJK5", "E5MJK9", "E5MJKA", "E5MJKC", "E5MJKD", "E5MJKE"
-        ],
-        "thu": [
-            "E5MFA1", "E5MFAX", "E5MFB1", "E5MFBX", "E5MFJ1", "E5MFJX",
-            "E5MGC1", "E5MGCX", "E5MGD1", "E5MGDX", "E5MGMM",
-            "E5MIL1", "E5MIL2", "E5MILX", "E5MILY",
-            "E5MHG1", "E5MHG2", "E5MHGX",
-            "E5MJK1", "E5MJK2", "E5MJK3", "E5MJK4", "E5MJK5", "E5MJK9", "E5MJKA", "E5MJKC", "E5MJKD", "E5MJKE"
-        ],
-        "fri": [
-            "E5MFA1", "E5MFAX", "E5MFB1", "E5MFBX", "E5MFJ1", "E5MFJX",
-            "E5MGC1", "E5MGCX", "E5MGD1", "E5MGDX", "E5MGMM", "E5MGE1", "E5MGE2", "E5MGEX",
-            "E5MHF1", "E5MHF2", "E5MHFX", "E5MHFY",
-            "E5MJK1", "E5MJK2", "E5MJK3", "E5MJK4", "E5MJK5", "E5MJK9", "E5MJKA", "E5MJKC", "E5MJKD", "E5MJKE"
-        ],
-        "sun": [
-            "E5MFMM",
-            "E5MGMM",
-            "E5MHMM", "E5MHNN"
-        ]
+        "lunch": [ "REST000004" ]
     },
     "r5.1st.basement": {
-        "default": [
-            "E59SAA", "E59SAX", "E59SBB",
-            "E59TAA", "E59TBB", "E59TCC", "E59TFF",
-            "E59UAA", "E59UBB",
-            "E59VAA", "E59VCC",
-            "E59WAA", "E59WBB",
-            "E59XAA", "E59XBB", "E59XCC",
-            "E59YAA", "E59YBB", "E59YCC", "E59YCX", "E59YCZ",
-            "E59ZAA", "E59ZCC", "E59ZCX",
-            "E5A1AA", "E5A1BB",
-            "E5A2AA", "E5A2BB",
-            "E5A3AA", "E5A3BB",
-            "E5A4AA", "E5A4CC",
-            "E5A5AA", "E5A5BB", "E5A5CC", "E5A5DD", "E5A5EE", "E5A5HH", "E5A5KK", "E5A5LL", "E5A5K9", "E5A5XX", "E5A5YY", "E5A5Z1",
-            "E5A5K1", "E5A5K2", "E5A5K3", "E5A5K6", "E5A5K7", "E5A5K8", "E5A5KB", "E5A5KC", "E5A5KE"
-        ]
+        "default": [ "REST000007" ]
     },
     "r5.2nd.basement": {
-        "default": [
-            "E59SBX",
-            "E59TAA", "E59TBB", "E59TCC", "E59TFF",
-            "E59UAA", "E59UBB",
-            "E59VAA", "E59VCC",
-            "E59ZAA", "E59ZCC",
-            "E5A1AA", "E5A1BB",
-            "E5A4AA", "E5A4CC",
-            "E5A6AA"
-        ]
+        "default": [ "REST000008" ]
     },
     "r5.5th.floor": {
-        "default": [
-            "E59SAA", "E59SBB", "E59SAX",
-            "E59TAA", "E59TBB", "E59TCC", "E59TFF",
-            "E59UAA", "E59UBB",
-            "E59VAA", "E59VCC",
-            "E59WAA", "E59WBB",
-            "E59XAA", "E59XCC",
-            "E59YAA", "E59YCC", "E59YCX",
-            "E59ZAA", "E59ZCC", "E59ZCX",
-            "E5A1AA", "E5A1BB",
-            "E5A4AA", "E5A4CC",
-            "E5A5AA", "E5A5BB", "E5A5CC", "E5A5KK", "E5A5LL", "E5A5XX", "E5A5YY", "E5A5Z1",
-            "E5A5K1", "E5A5K2", "E5A5K3", "E5A5K6", "E5A5K9", "E5A5KB", "E5A5KC", "E5A5KE"
-        ],
-        "dinner": [
-            "E59TAA", 
-            "E59VAA",
-            "E59WAA", 
-            "E59XBB",
-            "E59YCC", 
-            "E59ZAA",
-            "E5A1AA",
-            "E5A4AA",
-            "E5A5K1", "E5A5K2", "E5A5K3", "E5A5K6", "E5A5KB", "E5A5KC", "E5A5KE"
-        ]
+        "default": [ "REST000006" ]
     },
     "smart.1st.floor": {
         "breakfast": [
             "E13CAA", "E13CBB", "E13CEE", "E13CGG", "E13CHH", "E13CII", "E13CJJ", "E13CWW", "E13CXX", "E13CZZ"
         ],
         "lunch": [
-            "E13CAA", "E13CBB", "E13CD1", "E13CDD", "E13CMM", "E13CGG", "E13CHH", "E13CWW", "E13CYY", "E13CZ1"
+            "E13CAA", "E13CBB", "E13CCC", "E13CE2", "E13CMM", "E13CZ2", "E13CGG", "E13CHH", "E13CQQ", "E13CWW", "E13CYY"
         ],
         "dinner": [
-            "E13CAA", "E13CCC", "E13CEE", "E13CFF", "E13CGG", "E13CHH", "E13CPP", "E13CWW", "E13CYY"
+            "E13CAA", "E13CBB", "E13CEE", "E13CFF", "E13CGG", "E13CHH", "E13CPP", "E13CWW", "E13CYY"
         ]
     }
 }
